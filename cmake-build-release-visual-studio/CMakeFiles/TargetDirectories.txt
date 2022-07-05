@@ -1,0 +1,3 @@
+C:/Users/zsr/CLionProjects/cudanewts/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir
+C:/Users/zsr/CLionProjects/cudanewts/cmake-build-release-visual-studio/CMakeFiles/cudanewts.dir
+C:/Users/zsr/CLionProjects/cudanewts/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir
